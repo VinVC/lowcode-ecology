@@ -1,6 +1,6 @@
 {
-  "name": "@seada/formily-materials",
-  "version": "1.0.1",
+  "name": "@vinvc/formily-materials",
+  "version": "1.0.2",
   "description": "formily-materials",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -73,5 +73,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "eea735f466b0184f3a4be074574e5668f0908b06"
+  "gitHead": "661e0de276fb5bb6e13a49a0c84ac1c50e246c5c"
 }
