@@ -1,6 +1,6 @@
 {
   "name": "@seada/antd-materials",
-  "version": "1.0.0-rc.19",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",

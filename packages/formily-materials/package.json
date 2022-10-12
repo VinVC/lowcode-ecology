@@ -1,6 +1,6 @@
 {
   "name": "@seada/formily-materials",
-  "version": "1.0.0-rc.19",
+  "version": "1.0.1",
   "description": "formily-materials",
   "main": "lib/index.js",
   "module": "es/index.js",
