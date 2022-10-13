@@ -9,3 +9,5 @@ package-lock.json
 build
 .DS_Store
 npm
+lerna-debug.log
+upload.js

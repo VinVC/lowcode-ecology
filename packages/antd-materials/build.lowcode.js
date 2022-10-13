@@ -92,7 +92,7 @@ module.exports = {
           }
         ]
       }
-    ],
-    './build.plugin.js'
+    ]
+    // './build.plugin.js'
   ]
 }

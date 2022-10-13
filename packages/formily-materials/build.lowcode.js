@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const { name, version } = require('./package.json');
 
 const library = 'SeadaFormilyMaterials';
@@ -100,6 +101,6 @@ module.exports = {
         ],
       },
     ],
-    './build.plugin.js',
+    // './build.plugin.js',
   ],
 };
